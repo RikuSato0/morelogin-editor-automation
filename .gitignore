@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Configuration files
+*.ini
+*.json
+settings-custom.ini
+
+# Log files
+*.log
+*.log.*
+
+# Project specific
+files/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
