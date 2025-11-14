@@ -9,7 +9,7 @@ __pycache__/
 build/
 dist/
 *.spec.bak
-*.spec
+# Note: *.spec files are tracked as they define build configuration
 
 # Virtual environments
 venv/
