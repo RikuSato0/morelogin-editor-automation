@@ -1,0 +1,1 @@
+"C:\Program Files\Python311\Scripts\pyinstaller.exe" --onefile start-ui.py

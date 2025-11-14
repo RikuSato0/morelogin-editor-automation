@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --noconsole start-ui.py
